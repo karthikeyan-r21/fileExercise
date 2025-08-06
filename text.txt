@@ -2,4 +2,4 @@ i am karthikeyan
 new feature has been impemented successfully
 
 edited from master branch
-
+edited from remote repo 
